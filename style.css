@@ -514,6 +514,10 @@ section {
     background: var(--dark-secondary);
 }
 
+.experience .education-item {
+    background: var(--dark-bg);
+}
+
 .education-content {
     max-width: 900px;
     margin: 0 auto;
