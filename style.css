@@ -509,6 +509,11 @@ section {
     background: var(--dark-bg);
 }
 
+/* Experience Section */
+.experience {
+    background: var(--dark-secondary);
+}
+
 .education-content {
     max-width: 900px;
     margin: 0 auto;
